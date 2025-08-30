@@ -429,7 +429,7 @@
               <div className="flex items-center gap-3">
                 <div className="rounded-2xl bg-indigo-600 text-white p-2.5 shadow-soft">
                   <img
-                    src="images/MiCine.png"
+                    src="./images/MiCine.png"
                     alt="Mi Cine"
                     className="block w-12 h-12 md:w-16 md:h-16 object-contain"
                   />
